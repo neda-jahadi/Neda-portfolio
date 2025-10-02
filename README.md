@@ -1,6 +1,6 @@
 # Portfolio – Neda Jahadi
 Frontend / Fullstack Developer based in Gothenburg, Sweden  
-Experience with React.js, Laravel, MySQL, Python, WordPress, and modern UI development.  
+Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern UI development.  
 
 ---
 
