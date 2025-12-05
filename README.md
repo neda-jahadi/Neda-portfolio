@@ -16,19 +16,6 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
   - Maintained and optimized a **Scrapy project** (Python), adjusting spiders and pipelines to feed the database dynamically.  
 - **Impact:** Delivered a faster, more modern, and reliable real-estate platform with improved data handling.  
 - **Link:** [https://www.lokalnytt.se/](https://www.lokalnytt.se/)  
-
----
-### Prodexa
-- **Tech:** MERN (MongoDB, Express 4, React + Vite, Node.js), Zustand, Chakra UI 
-- **What I built:**  
-  - Developed a full-stack product management application with complete CRUD functionality.  
-  - Built a responsive UI using Chakra UI and handled global state with Zustand.
-  - Implemented a structured REST API using Express + Mongoose connected to MongoDB Atlas.
-  - Set up a production-ready build pipeline where Express serves the Vite-compiled frontend.
-  - Impact: 
-- **Impact:** Delivered a clean, modern, and fully deployable MERN application demonstrating strong full-stack capabilities.  
-- **Link:** [https://prodexa-zopw.onrender.com/](https://prodexa-zopw.onrender.com/)
-- **Code:** https://github.com/neda-jahadi/prodexa
   
   ---
 
