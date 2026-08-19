@@ -6,6 +6,24 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
 
 ## 🌐 Featured Projects
 
+### CineTrack – Job Search Platform (React / Fullstack)
+
+* **Tech:** React 19, TypeScript, Vite, Tailwind CSS, React Query, React Hook Form, Zod, Node.js, Express, Prisma, PostgreSQL, Storybook, Playwright
+* **Status:** In active development
+* **What I did:**
+  * Building a full-stack job search platform with a modern React and TypeScript frontend and a Node.js/Express backend.
+  * Developed reusable and accessible UI components, including search inputs, autocomplete, multi-select filters, pagination, forms, and responsive navigation.
+  * Implemented job search and filtering by title, location, region, municipality, job type, and work mode, with URL-based filter state and debounced search.
+  * Integrated the frontend with REST APIs using React Query for server-state management, caching, and data fetching.
+  * Built forms using React Hook Form and Zod with validation, accessible error handling, and reusable form components.
+  * Implemented authentication and protected functionality using a Node.js/Express API.
+  * Designed the data layer using Prisma and PostgreSQL, connecting frontend features to persistent application data.
+  * Created reusable UI patterns and components with Tailwind CSS and Storybook, with a focus on accessibility and consistency.
+  * Added automated quality checks and testing using ESLint, Prettier, Husky, Vitest/Playwright, and CI/CD-oriented development practices.
+* **Impact:** Demonstrates end-to-end development of a production-style React application, from reusable UI architecture and state management to REST APIs, authentication, and relational data.
+* **GitHub:** https://github.com/neda-jahadi/Cinetrack
+
+
 ### Developer Portal (Next.js)
 - **Tech:**: Next.js, React, TypeScript, Tailwind CSS, ShadCN, Radix UI, jose (JWT), Vitest
 - **What I did:**
