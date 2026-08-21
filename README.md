@@ -6,7 +6,7 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
 
 ## 🌐 Featured Projects
 
-### CineTrack – Job Search Platform (React / Fullstack)
+### NextRole – Job Search Platform (React / Fullstack)
 
 * **Tech:** React 19, TypeScript, Vite, Tailwind CSS, React Query, React Hook Form, Zod, Node.js, Express, Prisma, PostgreSQL, Storybook, Playwright
 * **Status:** In active development
@@ -21,7 +21,7 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
   * Created reusable UI patterns and components with Tailwind CSS and Storybook, with a focus on accessibility and consistency.
   * Added automated quality checks and testing using ESLint, Prettier, Husky, Vitest/Playwright, and CI/CD-oriented development practices.
 * **Impact:** Demonstrates end-to-end development of a production-style React application, from reusable UI architecture and state management to REST APIs, authentication, and relational data.
-* **GitHub:** https://github.com/neda-jahadi/Cinetrack
+* **GitHub:** https://github.com/neda-jahadi/Nextrole
 
 
 ### Developer Portal (Next.js)
