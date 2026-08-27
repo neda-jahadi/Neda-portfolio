@@ -23,20 +23,6 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
 * **Impact:** Demonstrates end-to-end development of a production-style React application, from reusable UI architecture and state management to REST APIs, authentication, and relational data.
 * **GitHub:** https://github.com/neda-jahadi/Nextrole
 
-
-### Developer Portal (Next.js)
-- **Tech:**: Next.js, React, TypeScript, Tailwind CSS, ShadCN, Radix UI, jose (JWT), Vitest
-- **What I did:**
-- Built a developer portal prototype with dashboards, documentation sections, and admin-style interfaces.
-- Designed a scalable frontend architecture using Next.js App Router and component-based structure.
-- Implemented role-based UI and navigation, simulating different user experiences (e.g. admin vs developer).
-- Developed a JWT-based authentication flow using cookies and server-side logic.
-- Created reusable UI components using ShadCN, Tailwind, and variant patterns for consistency and scalability.
-- Structured the project to reflect real-world application patterns, focusing on extensibility and maintainability.
- - **Impact:**: Demonstrates ability to design and implement a modern, scalable frontend application aligned with real-world developer platform use cases.
-- **Link:**: https://developer-portal-oy5qsfkwv-neda-jahadis-projects.vercel.app/
-- **Github Link:**: https://github.com/neda-jahadi/Developer-Portal
-
 ### Lokalnytt.se
 - **Tech:** Laravel, PHP, MySQL, Python (Scrapy), SCSS, Bootstrap  
 - **What I did:**  
