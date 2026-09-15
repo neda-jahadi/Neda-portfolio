@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Neda Jahadi monogram">
+  <rect width="64" height="64" rx="15" fill="#122d3d"/>
+  <path d="M15 44V20l19 24V20" fill="none" stroke="#f7f9fa" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M49 20v17c0 7-4 11-11 11" fill="none" stroke="#b6643e" stroke-width="5" stroke-linecap="round"/>
+</svg>
