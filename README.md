@@ -22,7 +22,7 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
   * Added automated quality checks and testing using ESLint, Prettier, Husky, Vitest/Playwright, and CI/CD-oriented development practices.
 * **Impact:** Demonstrates end-to-end development of a production-style React application, from reusable UI architecture and state management to REST APIs, authentication, and relational data.
 * **GitHub:** https://github.com/neda-jahadi/Nextrole
-* * **Live demo:** https://nextrole-alpha.vercel.app/
+* **Live demo:** https://nextrole-alpha.vercel.app/
 * **Status:** Live and in active development
 
 ### Lokalnytt.se
