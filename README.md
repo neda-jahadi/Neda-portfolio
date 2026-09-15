@@ -79,3 +79,20 @@ Experience with React.js, Next.js, Laravel, MySQL, Python, WordPress, and modern
 
 ## 📌 Notes
 This portfolio highlights selected **live projects** where my contributions are visible.  
+
+## Portfolio website
+
+This repository also contains my React/Vite portfolio website. It presents the first three featured projects above, my full-stack background, and links to the available live demos. The client project source code is proprietary, so only NextRole has a public GitHub repository link.
+
+To run locally:
+
+```bash
+npm ci
+npm run dev
+```
+
+To check the production build:
+
+```bash
+npm run build
+```
